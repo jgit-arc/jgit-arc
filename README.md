@@ -1,21 +1,24 @@
-<h1>>IT Professional</a>☺</h1>
+<h1>>IT and Cyber Security Enthusiast</a>☺</h1>  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
-  - [osTicket: Post-Installation Configuration]()
-  - [osTicket: Ticket Lifecycle Examples]()
+- <b>Virtualization (VirtualBox Setup and Management)</b>
+   - [VirtualBox: Installation of Ubuntu and Configuration](https://github.com/jgit-arc/VBox-Install)
+   - [VirtualBox: Snapshot Management](https://github.com/jgit-arc/Vbox-Snapshot)
+   - [VirtualBox: Multi-VM Networking](https://github.com/jgit-arc/Vbox-Networking)
+
+- <b>Help Desk Ticketing System via OsTicket</b>
+  - [osTicket: Getting Started](https://github.com/jgit-arc/osticket-getting-started)
+  - [osTicket: Configuration Essentials](https://github.com/jgit-arc/osticket-configuration-essentials)
+  - [osTicket: Ticket Management](https://github.com/jgit-arc/osticket-ticket-management)
+    
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Active Directory within Azure Virtual Machines](https://github.com/jgit-arc/ad-virtual-machines)
+  - [Understanding File Sharing and Permission Controls](https://github.com/jgit-arc/file-sharing-permissions)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/
+
+[linkedin]: https://www.linkedin.com/in/jgdev/
